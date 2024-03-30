@@ -1,0 +1,22 @@
+[1.596s] Invoking command in '/home/anmol/anmol_ws/src/bot_world': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed
+[1.825s] running egg_info
+[1.826s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[1.826s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[1.826s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[1.827s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[1.827s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[1.828s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.829s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.829s] running build
+[1.829s] running build_py
+[1.830s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.830s]   warnings.warn(
+[1.830s] running install
+[1.830s] running install_lib
+[1.831s] running install_data
+[1.832s] running install_egg_info
+[1.833s] removing '/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info' (and everything under it)
+[1.834s] Copying ../../build/bot_world/bot_world.egg-info to /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[1.835s] running install_scripts
+[1.857s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_world/install.log'
+[2.007s] Invoked command in '/home/anmol/anmol_ws/src/bot_world' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed

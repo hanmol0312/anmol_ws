@@ -1,0 +1,22 @@
+[1.909s] Invoking command in '/home/anmol/anmol_ws/src/bot_controller': PYTHONPATH=/home/anmol/anmol_ws/build/bot_controller/prefix_override:/home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_controller build --build-base /home/anmol/anmol_ws/build/bot_controller/build install --record /home/anmol/anmol_ws/build/bot_controller/install.log --single-version-externally-managed
+[2.144s] running egg_info
+[2.145s] writing ../../build/bot_controller/bot_controller.egg-info/PKG-INFO
+[2.146s] writing dependency_links to ../../build/bot_controller/bot_controller.egg-info/dependency_links.txt
+[2.146s] writing entry points to ../../build/bot_controller/bot_controller.egg-info/entry_points.txt
+[2.146s] writing requirements to ../../build/bot_controller/bot_controller.egg-info/requires.txt
+[2.146s] writing top-level names to ../../build/bot_controller/bot_controller.egg-info/top_level.txt
+[2.148s] reading manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+[2.149s] writing manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+[2.149s] running build
+[2.149s] running build_py
+[2.149s] running install
+[2.149s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.149s]   warnings.warn(
+[2.149s] running install_lib
+[2.151s] running install_data
+[2.151s] running install_egg_info
+[2.153s] removing '/home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.153s] Copying ../../build/bot_controller/bot_controller.egg-info to /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller-0.0.0-py3.10.egg-info
+[2.154s] running install_scripts
+[2.177s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_controller/install.log'
+[2.301s] Invoked command in '/home/anmol/anmol_ws/src/bot_controller' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_controller/prefix_override:/home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_controller build --build-base /home/anmol/anmol_ws/build/bot_controller/build install --record /home/anmol/anmol_ws/build/bot_controller/install.log --single-version-externally-managed

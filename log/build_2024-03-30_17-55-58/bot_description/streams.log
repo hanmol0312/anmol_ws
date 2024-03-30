@@ -1,0 +1,23 @@
+[1.766s] Invoking command in '/home/anmol/anmol_ws/src/bot_description': PYTHONPATH=/home/anmol/anmol_ws/build/bot_description/prefix_override:/home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/anmol/anmol_ws/build/bot_description/build install --record /home/anmol/anmol_ws/build/bot_description/install.log --single-version-externally-managed
+[1.988s] running egg_info
+[1.989s] writing ../../build/bot_description/bot_description.egg-info/PKG-INFO
+[1.989s] writing dependency_links to ../../build/bot_description/bot_description.egg-info/dependency_links.txt
+[1.990s] writing entry points to ../../build/bot_description/bot_description.egg-info/entry_points.txt
+[1.990s] writing requirements to ../../build/bot_description/bot_description.egg-info/requires.txt
+[1.990s] writing top-level names to ../../build/bot_description/bot_description.egg-info/top_level.txt
+[1.991s] reading manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[1.991s] adding license file 'LICENSE'
+[1.992s] writing manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[1.992s] running build
+[1.993s] running build_py
+[1.993s] running install
+[1.993s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.993s]   warnings.warn(
+[1.993s] running install_lib
+[1.994s] running install_data
+[1.995s] running install_egg_info
+[1.997s] removing '/home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[1.997s] Copying ../../build/bot_description/bot_description.egg-info to /home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info
+[1.998s] running install_scripts
+[2.020s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_description/install.log'
+[2.065s] Invoked command in '/home/anmol/anmol_ws/src/bot_description' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_description/prefix_override:/home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/anmol/anmol_ws/build/bot_description/build install --record /home/anmol/anmol_ws/build/bot_description/install.log --single-version-externally-managed

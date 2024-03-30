@@ -1,0 +1,35 @@
+[2.007s] Invoking command in '/home/anmol/anmol_ws/src/bot_controller': PYTHONPATH=/home/anmol/anmol_ws/build/bot_controller/prefix_override:/home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_controller build --build-base /home/anmol/anmol_ws/build/bot_controller/build install --record /home/anmol/anmol_ws/build/bot_controller/install.log --single-version-externally-managed
+[2.236s] running egg_info
+[2.237s] creating ../../build/bot_controller/bot_controller.egg-info
+[2.237s] writing ../../build/bot_controller/bot_controller.egg-info/PKG-INFO
+[2.238s] writing dependency_links to ../../build/bot_controller/bot_controller.egg-info/dependency_links.txt
+[2.238s] writing entry points to ../../build/bot_controller/bot_controller.egg-info/entry_points.txt
+[2.238s] writing requirements to ../../build/bot_controller/bot_controller.egg-info/requires.txt
+[2.238s] writing top-level names to ../../build/bot_controller/bot_controller.egg-info/top_level.txt
+[2.238s] writing manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+[2.240s] reading manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+[2.241s] writing manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+[2.241s] running build
+[2.241s] running build_py
+[2.241s] creating /home/anmol/anmol_ws/build/bot_controller/build
+[2.241s] creating /home/anmol/anmol_ws/build/bot_controller/build/lib
+[2.241s] creating /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller
+[2.241s] copying bot_controller/__init__.py -> /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller
+[2.242s] running install
+[2.242s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.242s]   warnings.warn(
+[2.242s] running install_lib
+[2.243s] creating /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller
+[2.243s] copying /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller/__init__.py -> /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller
+[2.244s] byte-compiling /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller/__init__.py to __init__.cpython-310.pyc
+[2.245s] running install_data
+[2.245s] creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index
+[2.246s] creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index
+[2.246s] creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index/packages
+[2.246s] copying resource/bot_controller -> /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index/packages
+[2.246s] copying package.xml -> /home/anmol/anmol_ws/install/bot_controller/share/bot_controller
+[2.246s] running install_egg_info
+[2.248s] Copying ../../build/bot_controller/bot_controller.egg-info to /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller-0.0.0-py3.10.egg-info
+[2.250s] running install_scripts
+[2.272s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_controller/install.log'
+[2.373s] Invoked command in '/home/anmol/anmol_ws/src/bot_controller' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_controller/prefix_override:/home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_controller build --build-base /home/anmol/anmol_ws/build/bot_controller/build install --record /home/anmol/anmol_ws/build/bot_controller/install.log --single-version-externally-managed

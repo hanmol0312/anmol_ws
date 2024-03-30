@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/bot_controller/bot_controller.egg-info
+writing ../../build/bot_controller/bot_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_controller/bot_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_controller/bot_controller.egg-info/entry_points.txt
+writing requirements to ../../build/bot_controller/bot_controller.egg-info/requires.txt
+writing top-level names to ../../build/bot_controller/bot_controller.egg-info/top_level.txt
+writing manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/bot_controller/bot_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anmol/anmol_ws/build/bot_controller/build
+creating /home/anmol/anmol_ws/build/bot_controller/build/lib
+creating /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller
+copying bot_controller/__init__.py -> /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller
+running install
+running install_lib
+creating /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller
+copying /home/anmol/anmol_ws/build/bot_controller/build/lib/bot_controller/__init__.py -> /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller
+byte-compiling /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index
+creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index
+creating /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index/packages
+copying resource/bot_controller -> /home/anmol/anmol_ws/install/bot_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/anmol/anmol_ws/install/bot_controller/share/bot_controller
+running install_egg_info
+Copying ../../build/bot_controller/bot_controller.egg-info to /home/anmol/anmol_ws/install/bot_controller/lib/python3.10/site-packages/bot_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anmol/anmol_ws/build/bot_controller/install.log'

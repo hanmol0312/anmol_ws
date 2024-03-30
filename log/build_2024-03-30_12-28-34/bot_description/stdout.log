@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/bot_description/bot_description.egg-info
+writing ../../build/bot_description/bot_description.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_description/bot_description.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_description/bot_description.egg-info/entry_points.txt
+writing requirements to ../../build/bot_description/bot_description.egg-info/requires.txt
+writing top-level names to ../../build/bot_description/bot_description.egg-info/top_level.txt
+writing manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anmol/anmol_ws/build/bot_description/build
+creating /home/anmol/anmol_ws/build/bot_description/build/lib
+creating /home/anmol/anmol_ws/build/bot_description/build/lib/bot_description
+copying bot_description/__init__.py -> /home/anmol/anmol_ws/build/bot_description/build/lib/bot_description
+running install
+running install_lib
+creating /home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description
+copying /home/anmol/anmol_ws/build/bot_description/build/lib/bot_description/__init__.py -> /home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description
+byte-compiling /home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anmol/anmol_ws/install/bot_description/share/ament_index
+creating /home/anmol/anmol_ws/install/bot_description/share/ament_index/resource_index
+creating /home/anmol/anmol_ws/install/bot_description/share/ament_index/resource_index/packages
+copying resource/bot_description -> /home/anmol/anmol_ws/install/bot_description/share/ament_index/resource_index/packages
+copying package.xml -> /home/anmol/anmol_ws/install/bot_description/share/bot_description
+creating /home/anmol/anmol_ws/install/bot_description/share/bot_description/urdf
+copying urdf/bot.urdf -> /home/anmol/anmol_ws/install/bot_description/share/bot_description/urdf
+creating /home/anmol/anmol_ws/install/bot_description/share/bot_description/launch
+copying launch/rviz.launch.py -> /home/anmol/anmol_ws/install/bot_description/share/bot_description/launch
+running install_egg_info
+Copying ../../build/bot_description/bot_description.egg-info to /home/anmol/anmol_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anmol/anmol_ws/build/bot_description/install.log'

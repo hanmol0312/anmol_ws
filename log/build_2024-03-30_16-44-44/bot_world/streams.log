@@ -1,0 +1,30 @@
+[1.167s] Invoking command in '/home/anmol/anmol_ws/src/bot_world': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed
+[1.385s] running egg_info
+[1.386s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[1.386s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[1.387s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[1.387s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[1.387s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[1.388s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.389s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.389s] running install
+[1.389s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.389s]   warnings.warn(
+[1.389s] running install_lib
+[1.390s] running install_data
+[1.391s] copying worlds/world_bot.world -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.391s] copying launch/world_bot.launch.py -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/launch
+[1.391s] creating /home/anmol/anmol_ws/install/bot_world/share/bot_world/urdf
+[1.391s] copying urdf/bot.urdf -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/urdf
+[1.391s] copying meshes/front_caster.stl -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.391s] copying meshes/wheel_r.stl -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.392s] copying meshes/base_link.stl -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.392s] copying meshes/wheel_l.stl -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.392s] running install_egg_info
+[1.394s] removing '/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info' (and everything under it)
+[1.394s] Copying ../../build/bot_world/bot_world.egg-info to /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[1.395s] running install_scripts
+[1.414s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_world/install.log'
+[1.445s] Invoked command in '/home/anmol/anmol_ws/src/bot_world' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed

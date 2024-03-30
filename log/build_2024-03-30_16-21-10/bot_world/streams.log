@@ -1,0 +1,37 @@
+[1.184s] Invoking command in '/home/anmol/anmol_ws/src/bot_world': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed
+[1.404s] running egg_info
+[1.404s] creating ../../build/bot_world/bot_world.egg-info
+[1.405s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[1.405s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[1.405s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[1.405s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[1.405s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[1.405s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.407s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.407s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.407s] running build
+[1.408s] running build_py
+[1.408s] creating /home/anmol/anmol_ws/build/bot_world/build
+[1.408s] creating /home/anmol/anmol_ws/build/bot_world/build/lib
+[1.408s] creating /home/anmol/anmol_ws/build/bot_world/build/lib/bot_world
+[1.408s] copying bot_world/__init__.py -> /home/anmol/anmol_ws/build/bot_world/build/lib/bot_world
+[1.408s] running install
+[1.408s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.409s]   warnings.warn(
+[1.409s] running install_lib
+[1.409s] creating /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+[1.409s] copying /home/anmol/anmol_ws/build/bot_world/build/lib/bot_world/__init__.py -> /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+[1.410s] byte-compiling /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world/__init__.py to __init__.cpython-310.pyc
+[1.410s] running install_data
+[1.410s] creating /home/anmol/anmol_ws/install/bot_world/share/ament_index
+[1.411s] creating /home/anmol/anmol_ws/install/bot_world/share/ament_index/resource_index
+[1.411s] creating /home/anmol/anmol_ws/install/bot_world/share/ament_index/resource_index/packages
+[1.411s] copying resource/bot_world -> /home/anmol/anmol_ws/install/bot_world/share/ament_index/resource_index/packages
+[1.411s] copying package.xml -> /home/anmol/anmol_ws/install/bot_world/share/bot_world
+[1.411s] creating /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.411s] copying worlds/world_bot.world -> /home/anmol/anmol_ws/install/bot_world/share/bot_world/meshes
+[1.411s] running install_egg_info
+[1.413s] Copying ../../build/bot_world/bot_world.egg-info to /home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[1.413s] running install_scripts
+[1.432s] writing list of installed files to '/home/anmol/anmol_ws/build/bot_world/install.log'
+[1.511s] Invoked command in '/home/anmol/anmol_ws/src/bot_world' returned '0': PYTHONPATH=/home/anmol/anmol_ws/build/bot_world/prefix_override:/home/anmol/anmol_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/anmol/anmol_ws/build/bot_world/build install --record /home/anmol/anmol_ws/build/bot_world/install.log --single-version-externally-managed
